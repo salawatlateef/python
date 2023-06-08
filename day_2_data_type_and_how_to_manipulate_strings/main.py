@@ -13,4 +13,5 @@ bill_with_tip= tip / 100 * bill + bill
 bill_per_person = bill_with_tip / people
 final_amount = round(bill_per_person, 2)
 print("Each person should pay " + str(final_amount) + "dollars")
-
+sal = "salawat lateef"
+print(sal)
