@@ -18,3 +18,4 @@ print(sal)
 a  = 6
 b = 9
 print(f"My name is {sal}  and  I'm {a + b} years old ")
+msg =  "Hi  love; someone is more interested in me than you are. They claim to know a thing or two on matters of love and ways of the heart"
